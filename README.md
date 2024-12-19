@@ -1,4 +1,4 @@
-# RobustFT: A Robust Supervised Fine-tuning Framework for Large Language Models
+# RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response
 
 RobustFT is a noise-robust supervised fine-tuning framework designed to enhance the performance of Large Language Models (LLMs) in the presence of noisy training data.
 
