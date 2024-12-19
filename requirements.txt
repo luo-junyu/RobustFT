@@ -1,0 +1,15 @@
+faiss-cpu
+openai
+openapi-schema-pydantic
+pandas
+requests
+langchain==0.2.16
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchainhub
+langsmith
+rank-bm25
+retrying
+func-timeout
