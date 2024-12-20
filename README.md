@@ -1,6 +1,6 @@
 # RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response
 
-RobustFT is a noise-robust supervised fine-tuning framework designed to enhance the performance of Large Language Models (LLMs) in the presence of noisy training data.
+RobustFT is a noise-robust supervised fine-tuning framework designed to enhance the performance of Large Language Models (LLMs) in the presence of noisy training data. [Paper Link](https://arxiv.org/abs/2412.14922).
 
 ## Overview
 
@@ -96,6 +96,20 @@ python eval.py
 ## BibTex
 
 If our work has been helpful to you, please consider citing it. 
+
+```BibTex
+@misc{luo2024robustft,
+    title={RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response}, 
+    author={Junyu Luo and Xiao Luo and Kaize Ding and Jingyang Yuan and Zhiping Xiao and Ming Zhang},
+    year={2024},
+    eprint={2412.14922},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2412.14922}, 
+}
+```
+
+Also, welcome to check out our recent work [SemiEvol](https://arxiv.org/abs/2410.14745) ([Code](https://github.com/luo-junyu/SemiEvol)) on semi-supervised fine-tuning for LLM adaptation.
 
 ```BibTex
 @misc{luo2024semievol,
